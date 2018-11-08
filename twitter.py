@@ -25,6 +25,9 @@ def fn_Tweet(p1):
 if __name__ == '__main__':
     # 入力処理
     TweetMessage = input("Please Enter Tweet: ")
+    if(TweetMessage == ""):
+        print("exit")
+        sys.exit()
     fn_Tweet(TweetMessage)
 
 
