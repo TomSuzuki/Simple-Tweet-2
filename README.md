@@ -1,4 +1,4 @@
-## CUITweet
+## Simple-Tweet-2
 - CLIでTweetするためのプログラム  
 - Twitterのキーは下の形式でドキュメントフォルダに（移動する場合はUserIDPathを書き換えて）入れておいてください  
 
